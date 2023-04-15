@@ -1,0 +1,17 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following anime of the mecha genre began airing in 1982?",
+      "correct_answer": "The Super Dimension Fortress Macross",
+      "incorrect_answers": [
+        "Mobile Suit Gundam",
+        "Armored Trooper VOTOMS",
+        "Neon Genesis Evangelion"
+      ]
+    }
+  ]
+}
